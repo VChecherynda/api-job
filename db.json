@@ -7,7 +7,15 @@
       "deadline": "2019-08-20",
       "deleted": "false",
       "description": "<p>Some description 1</p>",
-      "duration": 7
+      "duration": 7,
+      "company": {
+        "key": "a85d017d90894deeae0a98f9e91ece36",
+        "name": "Test company",
+        "site": "http://some.site.com",
+        "layout_color": "#fcb900",
+        "location": "Test location",
+        "logo": "null"
+      }
     }
   }
 }
