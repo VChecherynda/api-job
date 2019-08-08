@@ -25,6 +25,124 @@
           "key": "a8b74aaf5b1f41bfa31544cd81fe3808",
           "name": "Banking"
         }
+      },
+      "inteviewers": {
+        "invited": [
+          {
+            "id": 1,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 0
+          },
+          {
+            "id": 2,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 0
+          },
+          {
+            "id": 3,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 0
+          },
+          {
+            "id": 4,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 0
+          }
+        ],
+        "review": [
+          {
+            "id": 5,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 6,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 7,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 8,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5,
+          },
+          {
+            "id": 9,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 4
+          }
+        ],
+        "accept": [
+          {
+            "id": 10,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5,
+          },
+          {
+            "id": 11,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 12,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 13,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 14,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          }
+        ],
+        "reject": [
+          {
+            "id": 15,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 16,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 3
+          },
+          {
+            "id": 17,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          },
+          {
+            "id": 18,
+            "name": "Bryan Walters",
+            "submitted": "06 Feb 2019",
+            "rating": 5
+          }
+        ]
       }
     }
   }
