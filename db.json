@@ -14,7 +14,17 @@
         "site": "http://some.site.com",
         "layout_color": "#fcb900",
         "location": "Test location",
-        "logo": "null"
+        "logo": "null",
+        "agency": {
+          "key": "83fb8a699d2740aeb3d3840b6e4be48c",
+          "name": "Test Name",
+          "role": 0
+        },
+        "button_color": "#8ed1fc",
+        "industry": {
+          "key": "a8b74aaf5b1f41bfa31544cd81fe3808",
+          "name": "Banking"
+        }
       }
     }
   }
