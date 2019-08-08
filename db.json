@@ -5,7 +5,7 @@
       "candidates_cnt": 4,
       "created_at": "2019-07-22T10:39:46.953310Z",
       "deadline": "2019-08-20",
-      "deleted": false,
+      "deleted": "false",
       "description": "<p>Some description 1</p>",
       "duration": 7,
       "company": {
